@@ -9,6 +9,7 @@
   "author": "Pakize Bozkurt",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.1",
     "express": "^4.18.2",
     "superheroes": "^3.0.0"
   }
